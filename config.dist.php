@@ -28,6 +28,7 @@ return [
             //'database'  => 0, // Default database (optional).
             //'username'  => '', // ACL - requires Redis >= 6.0 (optional).
             //'password'  => '', // Optional.
+            'password'  => '12345678', // Optional.
             //'authfile'  => '/run/secrets/file_name', // File with a password, e.g. Docker secrets (optional).
             //'path'      => '/var/run/redis/redis-server.sock', // Unix domain socket (optional).
             //'databases' => 16, // Number of databases, use this if the CONFIG command is disabled (optional).
